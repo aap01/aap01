@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🔭 I’m currently working on [aap01/flutter_project_template](https://github.com/aap01/flutter_project_template)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=aap01&&show_icons=true&theme=shadow-green"/>
+  </a>
+
